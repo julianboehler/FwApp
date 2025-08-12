@@ -1,5 +1,5 @@
 ﻿{
-    "version": "1.3.0",
-    "downloadUrl": "https://github.com/julianboehler/FwApp/raw/main/app-v1.3.0.apk",
-    "changelog": "Neues Feature: Dunkelmodus, Fehlerbehebungen."
+  "version": "1.0.0",
+  "downloadUrl": "https://github.com/julianboehler/FwApp/raw/main/app-v1.0.0.apk",
+  "changelog": "Erste Version der App veröffentlicht."
 }
